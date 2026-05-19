@@ -18,7 +18,7 @@ const experienceData = [
     ],
   },
   {
-    icon: "/images/icon/DRONE.svg",
+    icon: "/images/icon/DRONE2.avif",
     role: "Drone Mapping Kawasan Mesjid Baitul Atiq Seberang Padang Selatan - Drone Mapping",
     location: "Padang City, Sumatera Barat, Indonesia",
     startYear: "8 January 2023",
