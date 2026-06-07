@@ -23,7 +23,7 @@ const featureWork = [
 
     image: "/images/feature-work/3D_MAP.png",
 
-    link: "https://3dpadang.vercel.app/",
+    link: "https://ndbideckgl2.vercel.app/",
   },
 ];
 
